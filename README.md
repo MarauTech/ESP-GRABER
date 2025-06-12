@@ -9,3 +9,28 @@ Oprogramowanie dla mikrokontrolera ESP32 z modułem RF CC1101 i wyświetlaczem O
     Zakłócanie sygnałów: generowanie sygnałów w wybranych pasmach dla testów zakłóceń.
 
 Urządzenie jest sterowane za pomocą czterech przycisków, co zapewnia intuicyjną obsługę.
+
+
+Connection:
+📺 Display
+    VCC → 3V3
+    GND → GND
+    SCL → G22
+    SDA → G21
+
+🔘 Buttons 
+K1 → G27
+K2 → G26
+K3 → G33
+K4 → G32
+
+📡 CC1101
+1 → GND
+2 → 3V3
+3  → G2
+4 → G5
+5 → G18
+6 → G23
+7 → G19   
+
+Credit:Teapot174
