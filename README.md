@@ -9,7 +9,7 @@ Oprogramowanie dla mikrokontrolera ESP32 z modułem RF CC1101 i wyświetlaczem O
     Zakłócanie sygnałów: generowanie sygnałów w wybranych pasmach dla testów zakłóceń.
 
 Urządzenie jest sterowane za pomocą czterech przycisków, co zapewnia intuicyjną obsługę.
-
+Flasher: https://marautech.github.io/ESP-GRABBER-FLASHER/
 
 Connection:
 📺 Display
