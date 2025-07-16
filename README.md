@@ -33,4 +33,9 @@ K4 → G32
 6 → G23
 7 → G19   
 
+Gotowe płytki dostepne na https://shop.marautech.pl
+
+<img width="1160" height="770" alt="Zrzut ekranu 2025-06-18 224203" src="https://github.com/user-attachments/assets/030690ab-6242-4c3b-abf2-7c971b649095" />
+
+
 Credit:Teapot174
