@@ -68,11 +68,11 @@ This firmware runs on:
 |------------|-------|
 | 1 (GND)    | GND   |
 | 2 (VCC)    | 3V3   |
-| 3 (CSN)    | G2    |
-| 4 (SI)     | G5    |
-| 5 (SCLK)   | G18   |
-| 6 (MISO)   | G23   |
-| 7 (GDO2)   | G19   |
+| 3          | G2    |
+| 4          | G5    |
+| 5          | G18   |
+| 6          | G23   |
+| 7          | G19   |
 
 ---
 
@@ -170,11 +170,11 @@ Projekt jest stabilny, ale może być rozwijany o kolejne funkcje.
 |-----|-------|
 | 1 (GND)  | GND   |
 | 2 (VCC)  | 3V3   |
-| 3 (CSN)  | G2    |
-| 4 (SI)   | G5    |
-| 5 (SCLK) | G18   |
-| 6 (MISO) | G23   |
-| 7 (GDO2) | G19   |
+| 3        | G2    |
+| 4        | G5    |
+| 5        | G18   |
+| 6        | G23   |
+| 7        | G19   |
 
 ---
 
