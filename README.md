@@ -93,7 +93,8 @@ Purchase pre-assembled ESP-GRABER boards at:
 
 ## 📸 Preview
 
-<img width="1160" height="770" alt="ESP-GRABBER Preview" src="https://github.com/user-attachments/assets/030690ab-6242-4c3b-abf2-7c971b649095" />
+<img width="785" height="561" alt="Zrzut ekranu (1)" src="https://github.com/user-attachments/assets/32d23261-312c-4861-89c0-84582452d451" />
+
 
 ---
 
