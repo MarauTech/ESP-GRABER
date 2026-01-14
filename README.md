@@ -87,7 +87,7 @@ Use the web flasher to upload firmware directly to your ESP32:
 ## 🛒 Ready-to-use PCBs
 
 Purchase pre-assembled ESP-GRABER boards at:  
-🌐 **[https://shop.marautech.pl](https://shop.marautech.pl)**
+🌐 **[https://shop.marautech.pl]([https://shop.marautech.pl](https://m.elecrow.com/pages/shop/product/details?id=208623&))**
 
 ---
 
@@ -189,7 +189,7 @@ Flashuj gotowy firmware bezpośrednio z przeglądarki:
 ## 🛒 Gotowe płytki
 
 Płytki i zestawy dostępne na:  
-🛍️ **[https://shop.marautech.pl](https://shop.marautech.pl)**
+🛍️ **[https://shop.marautech.pl]([https://shop.marautech.pl](https://m.elecrow.com/pages/shop/product/details?id=208623&))**
 
 ---
 
